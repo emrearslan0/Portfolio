@@ -1,1 +1,1 @@
-# Portfolio
+Kendimi tanıttığım bir portfolyo.
